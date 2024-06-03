@@ -1,22 +1,26 @@
 # ¡Hola! Soy Jorge Martínez 👋
-![Foto](https://avatars.githubusercontent.com/u/140458867?s=400&u=70d2c91cf3bb45d056829a3361beb3fc9294c8a7&v=4)
 
 ## 💻 Desarrollador full stack en progreso.
 
 
 ## Habilidades
 
-- **Lenguajes de Programación**:
-- HTML5,
-- Css,
+**Lenguajes de Programación**
+- HTML5
+- Css
 - JavaScript
-- **Frameworks y Librerías**:
-- ReactJs,
-- Node.js,
-- Express,
+  
+**Frameworks y Librerías**
+- ReactJs
+- Node.js
+- Express
 - Bootstrap
-- **Herramientas y Plataformas**:
-- Git, Firebase, Visual Studio Code, Postman
+  
+**Herramientas y Plataformas**:
+- Git
+- Firebase
+- Visual Studio Code
+- Postman
 
 
 
