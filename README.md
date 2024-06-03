@@ -39,5 +39,5 @@ Soy un desarrollador frontend con experiencia en desarrollo web, especializado e
 
 ## Contáctame
 
-[LinkedIn](https://www.linkedin.com/in/jorgegastonmartinez/)
+[LinkedIn](https://www.linkedin.com/in/jorgegastonmartinez/)  
 [Correo Electrónico](mailto:jgastonmartinez@gmail.com)
