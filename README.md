@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Martínez 👋
 
 
-## 💻 Desarrollador full stack en progreso.
+## Desarrollador full stack en progreso 🔜.
 
 ## Sobre mí
 Soy un desarrollador frontend con experiencia en desarrollo web, especializado en React.js. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
