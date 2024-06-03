@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Martínez 👋
 
 
-## Desarrollador full stack en progreso 🔜.
+## Desarrollador full stack en progreso.
 
 ## Sobre mí
 Soy un desarrollador frontend con experiencia en desarrollo web, especializado en React.js. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
@@ -20,7 +20,7 @@ Soy un desarrollador frontend con experiencia en desarrollo web, especializado e
 - Express
 - Bootstrap
   
-**Herramientas y Plataformas**:
+**Herramientas y Plataformas**
 - Git
 - Firebase
 - Visual Studio Code
@@ -39,5 +39,5 @@ Soy un desarrollador frontend con experiencia en desarrollo web, especializado e
 
 ## Contáctame
 
-- [LinkedIn](https://www.linkedin.com/in/jorgegastonmartinez/)
-- [Correo Electrónico](mailto:jgastonmartinez@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jorgegastonmartinez/)
+[Correo Electrónico](mailto:jgastonmartinez@gmail.com)
