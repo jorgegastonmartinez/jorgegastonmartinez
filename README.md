@@ -4,7 +4,7 @@
 ## Desarrollador full stack.
 
 ## Sobre mí
-Soy un desarrollador con experiencia en desarrollo web, especializado en React.js. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
+Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Frontend como en el Backend, me permite abordar proyectos de manera integral, proporcionando soluciones eficientes y bien estructuradas. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 
 ## Habilidades
@@ -28,6 +28,7 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 **Herramientas y Plataformas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -42,13 +43,13 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 
 ## Proyectos Destacados
 
-Aplicación web de ecommerce. [Ecommerce San Ginés](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
+**Aplicación web de ecommerce** [Ecommerce Chocolatería](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
 
-Calculadora que realiza operaciones de suma, resta, multiplicación y división. [Calculadora](https://jorgegastonmartinez.github.io/calculadora/)
+**Calculadora que realiza operaciones de suma, resta, multiplicación y división** [Calculadora](https://jorgegastonmartinez.github.io/calculadora/)
 
-Formulario de registro que almacena los datos en firebase. [Formulario de registro](https://jorgegastonmartinez.github.io/formulario-registro/)
+**Formulario de registro que almacena los datos en firebase** [Formulario de registro](https://jorgegastonmartinez.github.io/formulario-registro/)
 
-Juego de adivinanza. El objetivo de juego es adivinar el número en la menor cantidad de intentos posibles. [juego de adivinanza](https://jorgegastonmartinez.github.io/adivina-el-numero/)
+**Juego de adivinanza. El objetivo de juego es adivinar el número en la menor cantidad de intentos posibles** [juego de adivinanza](https://jorgegastonmartinez.github.io/adivina-el-numero/)
 
 
 
