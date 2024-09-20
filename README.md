@@ -10,6 +10,7 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 ## Habilidades
 
 **Lenguajes de Programación**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,6 +22,7 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   
 **Herramientas y Plataformas**
@@ -31,18 +33,10 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
-
-
-
-
-
-
-<span style="background-color: #61DAFB; color: white; padding: 5px; border-radius: 5px;">ReactJs</span>
-<span style="background-color: #339933; color: white; padding: 5px; border-radius: 5px;">Node.js</span>
-<span style="background-color: #000000; color: white; padding: 5px; border-radius: 5px;">Express</span>
-<span style="background-color: #563d7c; color: white; padding: 5px; border-radius: 5px;">Bootstrap</span>
-<span style="background-color: #E0234E; color: white; padding: 5px; border-radius: 5px;">NestJs</span>
 
 
 
