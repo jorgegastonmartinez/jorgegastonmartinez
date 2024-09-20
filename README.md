@@ -1,11 +1,9 @@
 # ¡Hola! Soy Jorge Martínez 👋
----
 
 ## Full Stack Developer
 
 ## Sobre mí
 Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Frontend como en el Backend, me permite abordar proyectos de manera integral, proporcionando soluciones eficientes y bien estructuradas. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
-
 
 ## Lenguajes de Programación
 
@@ -13,7 +11,6 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  
 ## Frameworks y Librerías
 
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -37,7 +34,6 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
-
 ## Proyectos Destacados
 
 **Aplicación web de ecommerce** [Ecommerce Chocolatería](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
@@ -48,9 +44,7 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 
 **Juego de adivinanza. El objetivo de juego es adivinar el número en la menor cantidad de intentos posibles** [juego de adivinanza](https://jorgegastonmartinez.github.io/adivina-el-numero/)
 
-
-
-## Contáctame
+## Contacto
 
 - **Linkedin** [LinkedIn](https://www.linkedin.com/in/jorgegastonmartinez/)  
 - **Correo** [Correo Electrónico](mailto:jgastonmartinez@gmail.com)
