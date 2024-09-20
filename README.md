@@ -30,6 +30,16 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 - MongoDB
 
 
+
+
+<span style="background-color: #61DAFB; color: white; padding: 5px; border-radius: 5px;">ReactJs</span>
+<span style="background-color: #339933; color: white; padding: 5px; border-radius: 5px;">Node.js</span>
+<span style="background-color: #000000; color: white; padding: 5px; border-radius: 5px;">Express</span>
+<span style="background-color: #563d7c; color: white; padding: 5px; border-radius: 5px;">Bootstrap</span>
+<span style="background-color: #E0234E; color: white; padding: 5px; border-radius: 5px;">NestJs</span>
+
+
+
 ## Proyectos Destacados
 
 Aplicación web de ecommerce. [Ecommerce San Ginés](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
