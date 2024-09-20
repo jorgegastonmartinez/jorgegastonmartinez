@@ -7,16 +7,14 @@
 Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Frontend como en el Backend, me permite abordar proyectos de manera integral, proporcionando soluciones eficientes y bien estructuradas. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 
-## Habilidades
-
-**Lenguajes de Programación**
+## Lenguajes de Programación
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   
-**Frameworks y Librerías**
+## Frameworks y Librerías
 
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,7 +23,7 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   
-**Herramientas y Plataformas**
+## Herramientas y Plataformas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -37,8 +35,6 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 ![Handlebars](https://img.shields.io/badge/Handlebars.js-FF0000?style=for-the-badge&logo=handlebars.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
-
-
 
 
 ## Proyectos Destacados
