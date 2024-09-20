@@ -29,6 +29,9 @@ Soy un desarrollador con experiencia en desarrollo web, especializado en React.j
 - Redux
 - MongoDB
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=ReactJs&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=%3Cimg%3E)
+
+
 
 
 
