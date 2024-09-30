@@ -20,6 +20,7 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35B8E0?style=for-the-badge&logo=semanticui&logoColor=white)
   
 ## Herramientas y Plataformas
 
