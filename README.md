@@ -40,11 +40,17 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 
 **Aplicación web de ecommerce** [Ecommerce Chocolatería](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
 
+**Proyecto que utiliza la API de Rick and Morty para mostrar todos los personajes de la serie** [Rick and Morty](https://jorgegastonmartinez.github.io/rick-and-morty/)
+
+**Lista de taras** [TO DO LIST](https://github.com/jorgegastonmartinez/ToDoList)
+
 **Calculadora que realiza operaciones de suma, resta, multiplicación y división** [Calculadora](https://jorgegastonmartinez.github.io/calculadora/)
 
 **Formulario de registro que almacena los datos en firebase** [Formulario de registro](https://jorgegastonmartinez.github.io/formulario-registro/)
 
 **Juego de adivinanza. El objetivo de juego es adivinar el número en la menor cantidad de intentos posibles** [juego de adivinanza](https://jorgegastonmartinez.github.io/adivina-el-numero/)
+
+**Juego de tres en linea** [TA TE TI](https://jorgegastonmartinez.github.io/tateti/)
 
 ## Contacto
 
