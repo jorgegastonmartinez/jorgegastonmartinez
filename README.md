@@ -38,7 +38,7 @@ Soy un desarrollador especializado en ReactJs. Mi experiencia, tanto en el Front
 
 ## Proyectos Destacados
 
-**Aplicación web de ecommerce** [Ecommerce Chocolatería](https://jorgegastonmartinez.github.io/e-commerse-Chocolateria-San-Gines/)
+**Aplicación web de ecommerce** [Ecommerce Chocolatería](https://jorgegastonmartinez.github.io/chocolateria-san-gines/)
 
 **Proyecto que utiliza la API de Rick and Morty para mostrar todos los personajes de la serie** [Rick and Morty](https://jorgegastonmartinez.github.io/rick-and-morty/)
 
